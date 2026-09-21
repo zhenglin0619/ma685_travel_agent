@@ -40,6 +40,6 @@ ma685_travel_agent/
 ├── final_project.R              # Main project code
 ├── TravelAgent_report.Rmd       # R Markdown report
 ├── TravelAgent_report.pdf       # Final report
-├── MA685 Fianl Project.pdf      # Project-related PDF
+├── final_presentation.pdf       # Project-related Presentation
 ├── LICENSE
 └── README.md
